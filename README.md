@@ -7,8 +7,8 @@
 # Hello, I'm **Justn** !
 # Translations
 ### Don't know why I added translations but ok
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="22">](https://github.com/Atlas-OS/Atlas/blob/main/translations/README_de_DE.md)</kbd>
-<kbd>[<img title="Português" alt="Português" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/pt.svg" width="22">](https://github.com/Atlas-OS/Atlas/blob/main/translations/README_pt_BR.md)</kbd>
+<kbd>[<img title="Deutsch" alt="Deutsch" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="22">](https://github.com/Random-user-doing-random-stuff/Random-user-doing-random-stuff/blob/main/translations/README_DE.md)</kbd>
+<kbd>[<img title="Português" alt="Português" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/pt.svg" width="22">](https://github.com/Random-user-doing-random-stuff/Random-user-doing-random-stuff/blob/main/translations/README_PT.md)</kbd>
 <!--<kbd>[<img title="English" alt="English" width="22" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/us.svg">](ok.com)</kbd> -->
 
 # Proggraming languages
