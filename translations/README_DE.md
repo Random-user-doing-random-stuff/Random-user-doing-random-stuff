@@ -1,5 +1,5 @@
 # Hallo, Ich bin **Justn** !
-![alt-text](./assets/wow.png "It's me Mario!")
+![alt-text](../assets/wow.png "It's me Mario!")
 # Übersetzungen
 ### Ich weiß nicht, warum ich Übersetzungen hinzugefügt habe, aber ok
 

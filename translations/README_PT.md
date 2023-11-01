@@ -1,5 +1,5 @@
 # Olá, eu sou o **Justn**!
-![alt-text](./assets/wow.png "It's me Mario!")
+![alt-text](../assets/wow.png "It's me Mario!")
 ## Traduções
 <kbd>[<img title="English" alt="English" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gb.svg" width="22" height="auto">](https://github.com/Random-user-doing-random-stuff/Random-user-doing-random-stuff/blob/main/README.md)</kbd>
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="29" height="auto">](https://github.com/Random-user-doing-random-stuff/Random-user-doing-random-stuff/blob/main/translations/README_DE.md)</kbd>
