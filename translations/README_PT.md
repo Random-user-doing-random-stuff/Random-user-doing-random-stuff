@@ -1,4 +1,5 @@
-# Olá, eu sou o **Justn**!
+# <span style="color: White;">Olá, eu sou o **Justn**!</span>
+
 ![alt-text](../assets/wow.png "It's me Mario!")
 ## 😱 Traduções
 ### Não sei poque é que adicionei isto, mas ok
