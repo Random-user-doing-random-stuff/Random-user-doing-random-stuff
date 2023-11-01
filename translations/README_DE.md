@@ -12,6 +12,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+Nodejs hauptsächlich für die API-Interaktion 🗿
 ## 🔧 Werkzeuge
 [![Fiddler](https://img.shields.io/badge/Fiddler-66e710?style=for-the-badge&logo=progress&logoColor=white)](https://www.telerik.com/fiddler/fiddler-everywhere)
 [![Postman](https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
