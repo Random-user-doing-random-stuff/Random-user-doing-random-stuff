@@ -7,11 +7,12 @@
 # Hello, I'm **Justn** ! <br> (or maybe not)
 ![alt-text](./assets/wow.png "It's me Mario!")
 ## 😱 Translations
- ### Don't know why i added translations but ok
+### Don't know why i added translations but ok
+
+<!-- <kbd>[<img title="English" alt="English" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gb.svg" width="22">](https://github.com/Random-user-doing-random-stuff/Random-user-doing-random-stuff/blob/main/README.md)</kbd>
+ -->
 <kbd>[<img title="Português" alt="Português" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/pt.svg" width="22">](https://github.com/Random-user-doing-random-stuff/Random-user-doing-random-stuff/blob/main/translations/README_PT.md)</kbd>
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="22">](https://github.com/Random-user-doing-random-stuff/Random-user-doing-random-stuff/blob/main/translations/README_DE.md)</kbd>
-<!--<kbd>[<img title="English" alt="English" width="22" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/us.svg">](ok.com)</kbd> -->
-
 ## 🐵 Proggraming languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
