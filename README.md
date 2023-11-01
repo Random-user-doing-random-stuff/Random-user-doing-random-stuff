@@ -4,7 +4,7 @@
 
 
 
-# Hello, I'm **Justn** ! <br> (or maybe not)
+# <span style="color: White;">Hello, I'm **Justn** ! <br> (or maybe not)</span>
 ![alt-text](./assets/wow.png "It's me Mario!")
 ## 😱 Translations
 ### Don't know why i added translations but ok
