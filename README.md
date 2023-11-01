@@ -29,3 +29,7 @@ Nodejs mostly for API interaction 🗿
 [![Discord](https://img.shields.io/badge/Discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wwbtSVbc)
 [![Steam](https://img.shields.io/badge/steam-1b2838.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199138903684)
 [![Mr. Beast](https://img.shields.io/badge/Mr.%20Beast-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA)
+
+## 🤔 Stats
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Random-user-doing-random-stuff&show_icons=true&locale=en&layout=compact&theme=react" alt="Random-user-doing-random-stuff" /></p>
