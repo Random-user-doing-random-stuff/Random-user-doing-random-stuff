@@ -1,4 +1,4 @@
-# Hallo, Ich bin **Justn** !
+# Hallo
 ![alt-text](../assets/wow.png "It's me Mario!")
 ## 😱 Übersetzungen
 ### Ich weiß nicht, warum ich Übersetzungen hinzugefügt habe, aber ok
