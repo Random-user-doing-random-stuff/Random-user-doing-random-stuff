@@ -13,9 +13,7 @@
  -->
 <kbd>[<img title="Português" alt="Português" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/pt.svg" width="22">](https://github.com/Random-user-doing-random-stuff/Random-user-doing-random-stuff/blob/main/translations/README_PT.md)</kbd>
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="22">](https://github.com/Random-user-doing-random-stuff/Random-user-doing-random-stuff/blob/main/translations/README_DE.md)</kbd>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
