@@ -6,14 +6,14 @@
 
 # Hello
 ![alt-text](./assets/wow.png "OK")
-### Don't know why i added translations but ok
+<!-- ### Don't know why i added translations but ok
 
 <kbd>[<img title="Português" alt="Português" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/pt.svg" width="22">](https://github.com/Random-user-doing-random-stuff/Random-user-doing-random-stuff/blob/main/translations/README_PT.md)</kbd>
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="22">](https://github.com/Random-user-doing-random-stuff/Random-user-doing-random-stuff/blob/main/translations/README_DE.md)</kbd>
 
 <p align="left">
 </p>
-
+-->
 <h3 align="left">Languages and Tools:</h3>
 
 #### Front-end:
