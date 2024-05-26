@@ -71,7 +71,6 @@
 </p>
 
 ## Stats
-### I mostly use js ( nodejs ), but all my repos are private ( currently )
-### GNU License user
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Random-user-doing-random-stuff&show_icons=true&locale=en&layout=compact&theme=react" alt="Random-user-doing-random-stuff" /></p>
 
