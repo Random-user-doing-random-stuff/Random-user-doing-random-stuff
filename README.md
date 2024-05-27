@@ -72,5 +72,4 @@
 
 ## Stats
 
-<p><img src="[https://github-readme-stats.vercel.app/api/top-langs?username=Random-user-doing-random-stuff&show_icons=true&locale=en&layout=compact&theme=react](https://github-readme-stats.vercel.app/api/top-langs/?username=Random-user-doing-random-stuff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" alt="Random-user-doing-random-stuff" /></p>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Random-user-doing-random-stuff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
