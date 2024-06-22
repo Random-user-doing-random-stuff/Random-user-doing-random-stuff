@@ -70,6 +70,6 @@
   </a>
 </p>
 
-## Stats
+## Stats nobody reads
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Random-user-doing-random-stuff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
